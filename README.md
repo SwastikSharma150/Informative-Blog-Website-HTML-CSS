@@ -1,4 +1,5 @@
 # Informative Blog Website
+![link to hosted website](https://americanbeavers.netlify.app)link to hosted website
 
 Informative blog website developed using HTML and styled via CSS. This is a personal 
 project upon the topic, "American Beavers" mainly to showcase my ability to use almost 
